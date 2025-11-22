@@ -1,1 +1,24 @@
-# Projeto-da-faculdade-
+C:\xampp\htdocs\Projeta da Faculdade\cssC:\xampp\htdocs\Projeta da Faculdade\jsC:\xampp\htdocs\Projeta da Faculdade\js
+C:\xampp\htdocs\Projeta da Faculdade\banco-de-dados-2122m.sql
+C:\xampp\htdocs\Projeta da Faculdade\cadastrar-cliente.php
+C:\xampp\htdocs\Projeta da Faculdade\cadastrar-funcionario.php
+C:\xampp\htdocs\Projeta da Faculdade\cadastrar-modelo.php
+C:\xampp\htdocs\Projeta da Faculdade\cadastrar-marca.php
+C:\xampp\htdocs\Projeta da Faculdade\cadastrar-venda.php
+C:\xampp\htdocs\Projeta da Faculdade\conexao.php
+C:\xampp\htdocs\Projeta da Faculdade\editar-cliente.php
+C:\xampp\htdocs\Projeta da Faculdade\editar-marca.php
+C:\xampp\htdocs\Projeta da Faculdade\editar-funcionario.php
+C:\xampp\htdocs\Projeta da Faculdade\editar-modelo.php
+C:\xampp\htdocs\Projeta da Faculdade\editar-venda.php
+C:\xampp\htdocs\Projeta da Faculdade\listar-cliente.php
+C:\xampp\htdocs\Projeta da Faculdade\index.php
+C:\xampp\htdocs\Projeta da Faculdade\listar-funcionario.php
+C:\xampp\htdocs\Projeta da Faculdade\listar-marca.php
+C:\xampp\htdocs\Projeta da Faculdade\listar-modelo.php
+C:\xampp\htdocs\Projeta da Faculdade\listar-venda.php
+C:\xampp\htdocs\Projeta da Faculdade\salvar-cliente.php
+C:\xampp\htdocs\Projeta da Faculdade\salvar-funcionario.php
+C:\xampp\htdocs\Projeta da Faculdade\salvar-marca.php
+C:\xampp\htdocs\Projeta da Faculdade\salvar-modelo.php
+C:\xampp\htdocs\Projeta da Faculdade\salvar-venda.php
